@@ -1,0 +1,49 @@
+# 5G Network Analysis Summary Report
+
+## Dataset Overview
+- Total packets analyzed: 52185
+- Unique source IPs: 33
+- Unique destination IPs: 31
+
+## Protocol Distribution
+- UDP: 36886 packets (70.68%)
+- TCP: 5862 packets (11.23%)
+- GTP <TCP>: 5009 packets (9.60%)
+- HTTP2: 2308 packets (4.42%)
+- GTP <HTTP>: 694 packets (1.33%)
+- HTTP: 694 packets (1.33%)
+- SCTP: 372 packets (0.71%)
+- PFCP: 352 packets (0.67%)
+- MDNS: 8 packets (0.02%)
+
+## Network Activity
+### Top Source IPs
+- 192.168.0.22: 19969 packets (38.27%)
+- 192.168.0.23: 17103 packets (32.77%)
+- 192.168.0.11: 4833 packets (9.26%)
+- 192.168.0.21: 2921 packets (5.60%)
+- 192.168.0.12: 1540 packets (2.95%)
+
+### Top Destination IPs
+- 192.168.0.23: 19783 packets (37.91%)
+- 192.168.0.22: 17289 packets (33.13%)
+- 192.168.0.11: 5856 packets (11.22%)
+- 192.168.0.12: 2308 packets (4.42%)
+- 192.168.0.21: 2233 packets (4.28%)
+
+## Generated Visualizations
+1. protocol_distribution.png - Distribution of protocols in the dataset
+2. network_topology.png - Network communication graph
+3. packet_length_distribution.png - Distribution of packet lengths
+4. packet_lengths_by_protocol.png - Packet lengths by protocol
+5. packet_time_series.png - Packet activity over time
+6. time_series_by_protocol.png - Protocol-specific activity over time
+
+## Analysis Methodology
+This analysis was performed using a sample of packets from the dataset. The analysis focuses on protocol distribution, network topology, packet characteristics, and communication patterns.
+
+## Conclusions
+Based on the analysis, the following observations can be made:
+1. [Add your conclusions here based on the analysis results]
+2. [Add more conclusions as appropriate]
+3. [Add recommendations if applicable]
