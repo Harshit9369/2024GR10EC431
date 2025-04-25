@@ -78,6 +78,6 @@ Dr. Bhupendra Kumar
 
 ## Collaborators
 
--   Harshit Agrawal
--   Malaika Varshney
--   Ameya Naik
+-   Harshit Agrawal (202251053)
+-   Malaika Varshney (202251069)
+-   Ameya Naik (202251012)
