@@ -70,6 +70,14 @@ All generated plots and the summary report are saved in the `output_metrics/` di
 
 ---
 
+## MidSem Solution Videos
+
+- Harshit Agrawal (202251053) - [drive link](https://drive.google.com/drive/folders/1hw1atsSwAEbC2_ICuOm0v2cAMyLgFGZi?usp=sharing)
+- Malaika Varshney (202251069) - [drive link](https://drive.google.com/drive/folders/1AYJOG5QFP_KOL8-rSjBpoHMfElunomzz?usp=sharing)
+- Ameya Naik (202251012) - [drive link](https://drive.google.com/drive/folders/16yW6qq6eb65UBClBGOXsGZWL1udVjjDT)
+
+--- 
+
 ## Educator
 
 Dr. Bhupendra Kumar
